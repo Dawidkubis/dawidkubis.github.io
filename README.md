@@ -1,2 +1,2 @@
 # dawidkubis.github.io
-(python)[python-gjk]
+[python](python-gjk)
