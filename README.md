@@ -1,3 +1,3 @@
 # dawidkubis.github.io
-[python](python-gjk)
-[fyzika](fyzika-gjk)
++ [python](python-gjk)
++ [fyzika](fyzika-gjk)
